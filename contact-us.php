@@ -215,7 +215,7 @@
 				<div class="section-head text-center">
 					<h2 class="title">Reservation</h2>
 				</div>
-				<form  method="POST" action="https://formsubmit.co/rigafo1561@cyluna.com">
+				<form  method="POST" action="https://formsubmit.co/example@gmail.com">
 					<div class="row">
 						<div class="col-lg-6 col-md-6 m-b30 m-sm-b50">
 							<label class="form-label text-primary">Your Name</label>
